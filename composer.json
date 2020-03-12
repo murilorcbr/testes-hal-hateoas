@@ -1,0 +1,12 @@
+{
+    "name": "mgsantos/hal",
+    "require": {
+        "willdurand/hateoas": "^3.6"
+    },
+    "authors": [
+        {
+            "name": "Murilo Santos",
+            "email": "mgsantos@artit.com.br"
+        }
+    ]
+}
